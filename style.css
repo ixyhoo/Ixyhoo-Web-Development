@@ -61,6 +61,7 @@ a {
     padding: 5px 0;
     display: inline-block;
     transition: 0.5s;
+    text-shadow:  1px 1px  #00ff00;
 }
 
 a:hover {
@@ -81,3 +82,17 @@ h1 {
     text-align: center;
     line-height: 100px;
 }
+
+.article {
+    width: 80%;
+    height: auto;
+    margin: 40px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    border: #00ff00 solid 1px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px #00ff00;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
